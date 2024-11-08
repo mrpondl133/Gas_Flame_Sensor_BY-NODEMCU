@@ -12,7 +12,7 @@
   
 #define SSID        "NB_2.4GHz"    //Name Wifi สำหรับ ESP8266 
 #define PASSWORD    "085225698"    //Pass Wifi สำหรับ ESP8266
-#define LINE_TOKEN  "TIxEmdvJFivGJwinfoqirgr0EX53wMf21GhEU3NVOv3"    //LINE TOKEN สำหรับแจ้งเตือนผ่านไลน์
+#define LINE_TOKEN  " "    //LINE TOKEN สำหรับแจ้งเตือนผ่านไลน์
 
 
 void setup() {
